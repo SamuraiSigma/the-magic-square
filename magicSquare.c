@@ -152,7 +152,6 @@ void keySpecial(int key, int x, int y)
 
       Recieves a currently released special key, along with the
       location of the mouse when the key was released.
-
 */
 
 void keySpecialUp(int key, int x, int y)
