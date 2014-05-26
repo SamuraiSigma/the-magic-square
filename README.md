@@ -1,7 +1,9 @@
 Compilação
 ----------
 Para compilar o programa, digite no Terminal:
+
 **$ gcc -lGL -lGLU -lglut magicSquare.c -o magicSquare**
+
 
 Agradecimentos Especiais
 ------------------------
