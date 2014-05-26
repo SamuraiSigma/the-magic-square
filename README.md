@@ -6,7 +6,8 @@ Versão 1.0
 
 ######25/05/2014:
 
-- Primeira versão, oba. :)
+- Primeira versão "oficial". :D
+
 
 Compilação
 ========================
