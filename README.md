@@ -1,5 +1,5 @@
-Changelog
-========================
+The Magic Square - Changelog
+============================
 
 Versão 1.0
 ----------
