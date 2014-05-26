@@ -18,7 +18,7 @@
 bool keyStates[256]        = {false};
 bool keySpecialStates[256] = {false};
 
-/* Variables that control square's movement */
+/* Variables that control the square's movement */
 float horiz = 0.0;
 float vert  = 0.0;
 
