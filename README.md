@@ -9,8 +9,10 @@ Versão 1.0
 - Primeira versão "oficial". :D
 
 
+-------------------------------------------------
+
 Compilação
-========================
+----------
 
 Para compilar o programa, digite no Terminal:
 
@@ -18,7 +20,7 @@ Para compilar o programa, digite no Terminal:
 
 
 Agradecimentos Especiais
-========================
+------------------------
 
 Esse código foi baseado nos tutorais do OpenGL 2.0 de site:
 
