@@ -12,9 +12,7 @@ Versão 1.0
 Compilação
 ----------
 
-Para compilar o programa, digite no Terminal:
-
-**$ gcc -lGL -lGLU -lglut magicSquare.c -o magicSquare**
+Para compilar o programa, use o **Makefile**.
 
 
 Agradecimentos Especiais
