@@ -33,11 +33,9 @@ Uso
   O programa é executado pelo terminal (supõe-se aqui que esteja usando Linux) da seguinte forma:
 
   **$ ./bin/River [código]**
-
   - **código**: Argumentos opcionais para dar aquela trapaceada básica.
-    - -iddqd: A nave fica invencível.
-
-  As seguintes teclas podem ser usadas pelo usuário:
+  
+As seguintes teclas podem ser usadas pelo usuário:
   - **Setas Direcionais**: Fazem a nove se mover na direção correspondente.
   - **Barra de Espaço**: Faz a nave atirar.
   - **C**: Alterna entre visão em primeira e terceira pessoa.
